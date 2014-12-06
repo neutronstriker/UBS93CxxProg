@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1412782052 source:c:\users\neutron\documents\c++\ubs93cxxprog\usbfunctions.c
+	<stdio.h>
+	"libusb\include\lusb0_usb.h"
+
+1310436172 c:\users\neutron\documents\c++\ubs93cxxprog\libusb\include\lusb0_usb.h
+	<stdlib.h>
+	<windows.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1413392604 source:c:\users\neutron\documents\c++\ubs93cxxprog\main.c
+	"libusb\include\lusb0_usb.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<ctype.h>
+
