@@ -7,7 +7,7 @@
     
     The code is provided with: The MIT License (MIT)
 
-Copyright (c) <year> <copyright holders>
+Copyright (c) 2014 N.Srinivas a.k.a. NeutroN StrikeR (striker.dbz[at]hotmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
